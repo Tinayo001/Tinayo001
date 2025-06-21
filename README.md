@@ -1,5 +1,5 @@
 <!# 💫 About Me:
-I am currently learning backend projects with python,javascript and also studying data scienc.I am looking forward to collaborate in projects.
+I am currently learning backend projects with python,javascript and also studying data science and machine learning.I am looking forward to collaborate in projects.
 
 
 ## 🌐 Socials:
